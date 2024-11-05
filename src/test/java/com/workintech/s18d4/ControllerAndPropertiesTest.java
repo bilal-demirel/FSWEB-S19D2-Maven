@@ -7,7 +7,6 @@ import com.workintech.s18d4.dto.CustomerResponse;
 import com.workintech.s18d4.entity.Account;
 import com.workintech.s18d4.entity.Customer;
 import com.workintech.s18d4.service.AccountService;
-import com.workintech.s18d4.service.CustomerService;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
